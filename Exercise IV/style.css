@@ -59,6 +59,11 @@ h1 {
   height: 3px;
   background-color: aqua;
 }
+.video {
+  display: grid;
+  justify-content: center;
+}
+
 .para {
   line-height: 2;
   text-align: center;
